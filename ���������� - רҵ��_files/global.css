@@ -1,0 +1,71 @@
+@charset "GB2312";
+/* CSS Document */
+
+/* css reset */
+
+input, label, select, option, textarea, button, fieldset, legend{font:12px/18px  Arial, Simsun, Helvetica, sans-serif;}
+
+.edit_line_wrap{
+	position:relative;
+}
+.edit_wrap{
+	position: relative;
+	display: inline-block;
+	float:left;
+}
+
+.edit_wrap.high_div{
+	padding-top:5px;
+}
+
+.l-bar-selectpagesize{
+	visibility:hidden;
+	display:none;
+}
+.l-bar-group.l-bar-message{
+display:none;
+}
+textarea { overflow: auto; }
+.l-bar-separator{
+display:none
+}
+
+.blue_a{
+	color:blue;
+}
+
+a.blue_a:link, a.blue_a:visited {
+	color:blue;
+}
+
+/*内涵表格调整间隔*/
+.mod_bg input{ padding-left:2px;}
+.table_pro_wrap{ padding:15px 20px;}
+/* 短的输入框 */
+.mod_wrap .input_mini_wrap{ width:80px;}
+.mod_wrap .input_mini{ width:60px;}
+.table_pro .mod_wrap .input_mini_wrap{ margin-right:10px;}
+.l-text .input_mini:focus,.l-text  .input_normal:focus{ border:none;}
+
+/* 表格里宽度调整 */
+.table_pro .col1{ width:145px;}
+.table_pro .col2{}
+.table_pro_inner .col1{ width:84px;}
+.table_pro_inner .col2{ width:187px; padding-right:100px;}
+.table_pro_inner .col3{ width:109px;}
+.table_pro_inner .col4{ width:187px;}
+.table_pro td{ padding:5px 0;}
+.option_content{ width:570px; zoom:1;}
+.option_content:after{ content:""; display:block; height:0px; line-height:0; visibility:hidden; clear:both;}
+.inner_item{ float:left; width:270px; padding:5px 0;}
+.inner_item .hd{ display:inline-block;*display:inline; width:110px;}
+
+/* 调整间距 */
+.mod_wrap .l-text{ margin-right:5px;}
+.margin_l{ margin-left:10px;}
+
+.btn_search,.btn_search:hover{ display:inline-block; /*width:60px;*/  height:22px; padding:0 18px; border:1px solid #b0b6bd; background:url(../library/ligerui/skins/Aqua/images/pro_select_btn.gif) no-repeat 0 -23px; line-height:22px; text-align:center; vertical-align:middle; color:#6a727e; text-decoration:none; text-shadow:#f0f1f2 0px 1px;}
+.btn_search:hover{ background-position:0 -50px;}
+.table_pro_wrap textarea{padding-left:2px;padding-right:2px}
+
+

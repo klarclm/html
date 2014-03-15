@@ -1,0 +1,80 @@
+.dtop {background:url(img/heng.jpg) repeat-x #fff;}
+.dtop .top_mid {margin:0px; color:#111; padding:8px 0 12px 0; text-align:right; width:1000px; margin:0 auto; }
+.dtop .top_mid a {color:#004488;}
+
+
+.header {width:100%; height:50px; background:#004488; margin-bottom:0px;}
+.header .top {width:1000px; height:100px; margin:0 auto; color:#fff;}
+.header .top .text a {padding:1px 6px 3px 6px; background:#3984d0; color:yellow; border:1px solid yellow;}
+.header .top .logo {float:right; padding:10px 0; }
+
+.main {width:1000px; background:#fff; margin:0 auto;}
+.main .note {height:30px; background:#f7f7f7;}
+.main .left { width:150px; background:#d8e5f4; border-right:1px solid #004488; padding:12px 0;}
+.main .right { width:850px;}
+
+.profile { padding:12px; text-align:center;}
+
+
+.menu {width:96%; float:right; }
+.menu a { display:block; width:100%; padding:6px 0; font-size:12px; background:#d8e5f4; text-align:center; margin:1px 0;}
+.menu a:hover {}
+.menu a.hover {background:url(img/heng.jpg) repeat-x #fff; color:#004488; padding:8px 0; font-size:14px; border:1px solid #aaa; border-right:1px solid #fff;}
+
+.middle {background:#fff; margin:0 auto; padding:6px 0; width:98%; height:100%;}
+
+.tip1 {border:1px solid #ffcc00; background:#fffff7; min-height:60px; padding:12px; margin:3px 0;}
+.tip2 { background:#ffdd99; padding:12px; margin:6px 0;}
+.tip3 { background:#f2fddb; padding:12px; margin:6px 0;}
+.tip4 {border:1px solid #f8b3d0; background:#fff5fa; min-height:60px; padding:12px; line-height:200%;}
+.blank {margin:3px 0; line-height:160%;}
+
+.hide {display:none;}
+
+.control {margin:6px 0; min-height:50px; padding:12px; background:#eef3f7;}
+.control .title {font-size:12px; padding:3px 0; margin:0 0 3px 0; font-weight:bold; }
+.control .title span {margin-left:10px; color:#666; font-weight:normal;}
+.control .title .todo {float:right; height:22px; line-height:22px;}
+.control .rate-item {margin:6px 0; padding:8px; background:#fff;}
+.control .rate-item .del {float:right; width:30px; height:30px; text-align:right;}
+.control .rate-item .content, .control .badrate-item .content {width:426px; }
+.control .badrate-item {margin:6px 0; padding:8px; background:#fff;}
+.control .badrate-item .wangwang {float:right; width:85px; height:35px; text-align:right;}
+.control .tip3 {line-height:200%;}
+
+.home {}
+.home a {text-decoration:underline; margin:0 3px;}
+.home .title .todo {font-weight:normal;}
+
+.theimg {float:right;}
+.theimg img {border:1px solid #eee; padding:3px;}
+
+.loading {width:100%; height:200px;text-align:center; }
+.loading img {margin-top:80px;}
+
+.show_table {background:#fff; }
+.show_table tbody.cls1 td {height:30px; background:#cae3ff;}
+.show_table tbody.cls2 td {height:23px;}
+
+.footer {width:100%; height:100px; margin-top:6px;}
+.footer .bottom {width:1000px; height:100px; margin:0 auto; background:#d8e5f4; text-align:center;}
+
+.warning {color:green; font-size:14px;}
+
+.clear {clear:both;}
+
+.renew {font-size:26px; }
+.renew del, .renew em {font-size:14px;}
+.renew a {text-decoration:none; }
+.renew b {color:red;}
+.renew span {display:block; float:right;}
+
+.dcform {font-size:14px; border:1px solid #ddd;}
+.dcform label {background:#d8e5f4; cursor:pointer; padding:3px 6px; margin:0 6px; display:block; float:right; color:red;}
+
+.bom {font-size:14px; border:1px solid blue; font-weight:bold;}
+.bom_hover {color:green;  border:1px solid red;}
+.bom_hover a {color:red;}
+
+.advset_body .item {margin:12px 0; cursor:default;}
+

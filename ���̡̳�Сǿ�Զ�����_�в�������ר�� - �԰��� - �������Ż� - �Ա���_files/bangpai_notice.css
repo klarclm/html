@@ -1,0 +1,65 @@
+#newInNotice {
+background: none repeat scroll 0 0 #FFFAB1;
+border: 1px solid #FF7A00;
+border-radius: 3px 3px 3px 3px;
+color: #666;
+line-height: 20px;
+margin-top: 10px;
+margin-left: 5px;
+margin-bottom: 10px;
+margin: 10px 5px;
+overflow: hidden;
+position: relative;
+width: 160px;
+}
+
+#newInNotice div{
+	width: 160px;
+	height: 22px;
+	background: #E9800F;
+}
+
+#newInNotice div img{
+	float:left;
+}
+
+
+#newInNotice div span{
+	color: white;
+	float: left;
+	font-size: 14PX;
+	font-weight: bolder;
+	margin-left: 5px;
+	font-family: "Microsoft Yahei","Î¢ÈíÑÅºÚ",Tahoma,Helvetica,Arial,'ËÎÌå',sans-serif;
+}
+
+
+#newInNotice div .bpclose{
+	cursor: pointer;
+	float: right;
+	margin-right: 7px;
+	font-family: Verdana;
+}
+
+#newInNotice p{
+	width:140px;
+	height:auto;
+	float:left;
+	margin-left:10px;
+	font-size:12px;
+}
+
+#newInNotice .newInBtn, #newInNotice .newInBtn:hover {
+    background: none repeat scroll 0 0 #479F51;
+	border: 1px solid #4E8844;
+	border-radius: 1px 1px 1px 1px;
+	color: white;
+	display: inline-block;
+	height: 19px;
+	line-height: 19px;
+	text-align: center;
+	text-decoration: none;
+	width: 54px;
+	float: left;
+	margin: 5px 52px 5px;
+}

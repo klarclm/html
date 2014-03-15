@@ -1,0 +1,1 @@
+getMsgUseLogsCB({"ret":0,"msg":"","data":[],"total":"0","page_no":1});
